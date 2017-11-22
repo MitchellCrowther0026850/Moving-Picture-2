@@ -64,11 +64,11 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(118, 276);
+            this.button2.Location = new System.Drawing.Point(278, 469);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.Size = new System.Drawing.Size(85, 59);
             this.button2.TabIndex = 2;
-            this.button2.Text = "button2";
+            this.button2.Text = "Move Down Left Diagonal - Retract ";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -148,7 +148,7 @@
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(87, 50);
             this.button10.TabIndex = 10;
-            this.button10.Text = "button10";
+            this.button10.Text = "Move Diagonal Down Left";
             this.button10.UseVisualStyleBackColor = true;
             this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
